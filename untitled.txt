@@ -1,0 +1,33 @@
+To check python version in windows 
+python --version
+1 Dimensional Array is referred to as Vector
+2 Dimensional Array is referred to as Matrix 
+3 Dimensional Array is referred to as Tensor
+
+To install numpy
+conda install numpy
+
+short keys for jupyter notebook
+
+if the cell is green it is edit mode if it is Blue is in command mod
+
+no command will run in edit mode
+
+press Esc to change the mode
+
+To run a cell
+ctr + enter  
+
+To run and create a new cell
+shift + enter
+
+To delete a cell
+Select a cell and type d two times
+dd
+
+To insert a new cell enter b
+b
+
+To see the commands go to help and click on key shortcuts
+
+we can use html tags into it
