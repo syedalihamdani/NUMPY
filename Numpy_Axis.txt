@@ -1,0 +1,16 @@
+If we creade 1d array we will have only number axis =1
+[1,2,3,4] ------>  number of axis=1     [Axis =0]
+
+two dimentinal array have two [axis0,axis1]
+
+
+axis0        axis1 --->
+|
+|        [[1,2,3,4],
+|        [5,6,7,8]
+^        [9,10,11,12]]
+downword
+
+axis0 toward rows and axis1 is towards columns
+
+

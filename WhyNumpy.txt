@@ -1,0 +1,6 @@
+Title: Why use NUMPY
+
+1. NUMPY provides provides efficient storage
+2. It also provides the better ways of handling data for processing
+3. It is fast 
+4 Its is easy to learn.
